@@ -1,0 +1,431 @@
+.naviii{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+}
+.redbusimgg{
+    width: 150px;
+    height: 100px;
+    margin-left: 120px;
+}
+.busno1{
+    color: rgb(216, 78, 85);
+    margin-left: 30px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 50px;
+   
+  
+
+}
+.busno1 h6{
+    font-size: 10px;
+    padding-top: 3px;
+    font-weight: bold;
+    color: black;
+   
+}
+
+
+.busno2{
+    color: rgb(216, 78, 85);
+    margin-left: 30px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.busno2 h6{
+    font-size: 10px;
+    padding-top: 3px;
+    font-weight: bold;
+    color: black;
+   
+}
+.busno3{
+    color: rgb(216, 78, 85);
+    margin-left: 30px;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-left: 40px;
+    margin-right: 5PX;
+
+}
+.busno3 h6{
+    font-size: 10px;
+    padding-top: 3px;
+    font-weight: bold;
+    color: black;
+   
+}
+
+.bustextno1{
+    font-size: 30px;
+    padding-top: 35px;
+    padding-left:400px;
+    display: flex;
+}
+.bustextnoh6{
+    font-size: 14px;
+    padding-top: 40px;
+    font-weight: bold;
+    padding-left: 4px;
+    color: black;
+}
+
+.bustextno2{
+    font-size: 30px;
+    padding-top: 35px;
+    padding-left: 50px;
+    display: flex;
+}
+
+
+.box{
+   
+    border: 2px solid white;
+    width: 250px;
+    height: 130px;
+    display: flex;
+    background-color:white;
+    border-right: 2px solid gray;
+    
+    
+}
+.one{
+    display: flex;
+    padding-top: 1%;
+    padding-left: 13%;
+
+}
+.secondone1{
+    background-image: url(images/a1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+  
+
+}
+.secondoneheading{
+        padding-top: 25%;
+        color: white;
+        font-weight: bold;
+        padding-left: 240px;
+        font-size: 40px;
+
+}
+   
+
+.box1{
+    font-size: 40px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.box1para{
+    padding-top: 30px;
+    padding-left: 15px;
+    color: grey;
+}
+.span{
+    font-weight: bold;
+    color: black;
+}
+.box2{
+    font-size: 40px;
+    padding-top: 40px;
+    margin-left: 40px;
+}
+.box2para{
+    padding-top: 30px;
+    padding-left: 15px;
+    color: grey;
+}
+.calendar{
+    width: 150px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-weight: bold;
+    border: none;
+    font-size: 20px;
+}
+
+.box55{
+     
+    border: 2px solid  #c1121f;
+    width: 250px;
+    height: 130px;
+    background-color:  #c1121f;
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+    padding-left: 40px;
+    padding-top: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.thirdcard{
+    width: 80%;
+    height: 350px;
+    border: 2px solid blacks;
+    margin-top: 90px;
+    margin-left: 130px;
+    background-color: white;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.thirdcardheading{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 48px;
+}
+.headingbtn{
+   margin-left: 550px;
+   border-radius: 10px;
+   width: 100px;
+   height: 50px;
+  background-color: white;
+  border: 2px solid gray;
+  color: #3a86ff;
+  font-weight: bold;
+}
+.offers{
+    display: flex;
+    margin-top: 30px;
+    
+    
+}
+
+.offerno1{
+    width: 280px;
+    height: 200px;
+    border: none;
+    margin-left: 50px;
+    border-radius: 30px;
+    background:linear-gradient(to right,#5f0f40,#9b5de5)
+  
+}
+.offerno2{
+    width: 280px;
+    height: 200px;
+    border: none;
+    margin-left: 50px;
+    border-radius: 30px;
+    background:linear-gradient(to right,#7209b7,#001d3d)
+}
+.offerno3{
+    width: 280px;
+    height: 200px;
+    border: none;
+    margin-left: 50px;
+    border-radius: 30px;
+    background:linear-gradient(to right,#6f1d1b,#ef476f)
+}
+.offerno1btn{
+    margin-left: 110px;
+    margin-top: 5px;
+    border-radius: 20px;
+    width: 50px;
+    height: 30px;
+    border: none;
+    background-color: white;
+}
+.offerno1heading{
+    margin-left: 25px;
+    margin-top: 10px;
+    color: white;
+}
+.offerno1para{
+    margin-left: 25px;
+    color: whitesmoke;
+}
+.offerno1btn1{
+    margin-left: 100px;
+    border: 1px dashed white;
+    border-radius: 5px;
+    background-color: #3a86ff;
+    color: white;
+    font-weight: bold;
+}
+.thirdppage{
+    width: 60%;
+    height: 100px;
+    border: 2px solid transparent;
+    border-radius: 15px;
+}
+.thirdppage{
+    margin-top: 300px;
+    margin-left: 270px;
+    background-image: url(images/sadium.png);
+    background-size: cover;
+    
+}
+.fourthpage{
+    margin-top: 120px;
+    margin-left: 130px;
+}
+.fourthpage1{
+   float: left;
+}
+.fourthpage2{
+    float: right;
+    margin-right: 100px;
+    
+}
+.fourthpage2 img{
+    width: 600px;
+    height: 700px;
+    border: 2px solid transparent;
+    background-image: url("https://s3.rdbuz.com/web/images/homeV2/AboutUs/aboutUsImg.svg");
+    background-repeat: no-repeat;
+
+}
+.fourthpageparatext{
+    font-size: 45px;
+}
+.fourthpagetext{
+   font-weight: bold;
+}
+.fourthpagebtn1{
+  
+    width: 250px;
+    height: 50px;
+    border: none;
+    background-color: white;
+    font-size: 25px;
+    font-weight: bold;
+    color: gray;
+  
+}
+.fourthpagebtn1:hover{
+    background-color: #bbb;
+    color: rgb(216, 78, 85);
+}
+.fourthpagebtn{
+    margin-top: 30px;
+}
+.fourthpageparatext11{
+    padding-top: 30px;
+    font-size: 18px;
+}
+.fourthpageul{
+    margin-top: 50px;
+    font-size: 25px;
+}
+.fourthpagebtn66{
+    margin-top: 60px;
+    
+}
+.fourthpagebtn661{
+ border: none; 
+ width: 150px;
+ height: 45px;
+ background-color:rgb(216, 78, 85) ;
+ border-radius: 10px;
+ color: white;
+ font-weight: bold;
+}
+
+
+
+
+.fivethpage{
+    margin-top: 900px;
+    margin-left: 130px;
+   
+}
+
+.fivethpage1{
+   width: 90%;
+   height: 380px;
+   border: 2px solid transparent;
+   background-image: url(images/appInstallbg.svg);
+   background-repeat: no-repeat;
+   background-size: contain;
+  
+   
+}
+.fivethpage1 h1{
+    padding-top: 20px;
+    padding-left: 45px;
+    color: white;
+    
+}
+.fivethpage2{
+    width: 400px;
+    height: 280px;
+    border: 2px solid transparent;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 20px;
+}
+.fivethpage2 h4{
+    margin-top: 20px;
+    margin-left: 30px;
+    
+}
+
+.fivethpagepara{
+    margin-left: 30px;
+    display: flex;
+
+}
+.fivethpagep{
+    display: flex;
+    margin-top: 50px;
+}
+.sixpage{
+    margin-top: 80px;
+    margin-left: 450px;
+}
+.sevenpage{
+    margin-top: 70px;
+}
+.sevenpage1{
+    width: 310px;
+    height: 180px;
+    border: 2px solid transparent;
+    margin-right: 70px;
+    background: linear-gradient(to right,#7209b7,#001d3d);
+    border-radius: 20px;
+}
+.sevenpagebox{
+    display: flex;
+    margin-left: 150px;
+}
+.sevenchart{
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.sevenchart1{
+    float: right;
+    color: white;
+}
+.sevenchart1 h4{
+    padding-right: 30px;
+    margin-top: 20px;
+    
+}
+.lastpage{
+    width: 100%;
+    height: 320px;
+    background-color: #f7f7f7;
+    margin-top: 100px;
+}
+.lastpage1{
+   float: left;
+   margin-left: 15%;
+   margin-top: 8%;
+   text-align: justify;
+}
+.lastpage2{
+   float: right;
+   margin-top: 12%;
+   padding-right: 70px;
+}
+.footericons{
+    font-size: 25px;
+    padding-left: 220px;
+    padding-right: 100px;
+}
